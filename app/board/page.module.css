@@ -1,0 +1,22 @@
+.main {
+    background-color: #fff;
+}
+
+.code {
+    background-color: aqua;
+}
+
+.description {
+    background-color: #333;
+}
+
+.img {
+    min-width: 400px;
+    min-height: 240px;
+    width: 500px;
+    height: 500px;
+    justify-content: flex-end;
+    flex-direction: column;
+    display: flex;
+    overflow: scroll;
+}
